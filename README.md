@@ -1,4 +1,3 @@
-Filename: README.md
 
 # Hello — I'm [Your Name] 👋✨
 
